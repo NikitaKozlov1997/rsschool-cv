@@ -1,0 +1,14 @@
+  
+p {
+  font-size: 14px;
+  
+}
+
+ul {
+  list-style: square outside;
+}
+body {
+  max-width: 1024px;
+  
+}
+
